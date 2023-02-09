@@ -1,4 +1,7 @@
-/*new list files under specified folder*/
+/*
+* new list files under specified folder
+* listMyFiles('1twCKXs5e6j5EgHfDAzwkij3-grhIEj1n');
+*/
       async function listMyFiles(folderid) {
         let fileList = [];
         let pageToken = "";
