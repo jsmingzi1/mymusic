@@ -1,14 +1,17 @@
 [
       {
          "name":"你的样子 (罗大佑).mp3",
-         "id":"1Q09tuAOd6utBqLes5kJKouJdLP46P8Qu"
+         "id":"1Q09tuAOd6utBqLes5kJKouJdLP46P8Qu",
+         "imageUrl":"https://img1.baidu.com/it/u=3771202995,2341004196&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"
       },
       {
          "name":"倩女幽魂 (张国荣).mp3",
-         "id":"1y-wNL_DKoQ5wVmAeQNx6Fjcs7GDdCIBn"
+         "id":"1y-wNL_DKoQ5wVmAeQNx6Fjcs7GDdCIBn",
+         "imageUrl":"https://img1.baidu.com/it/u=3771202995,2341004196&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"
       },
       {
          "name":"感恩的心 (欧阳菲菲).mp3",
-         "id":"12W3iTQa8I3p9fpOSbBIYMemdQFu3theu"
+         "id":"12W3iTQa8I3p9fpOSbBIYMemdQFu3theu",
+         "imageUrl":"https://img1.baidu.com/it/u=3771202995,2341004196&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"
       }
 ]
