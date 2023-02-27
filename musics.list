@@ -1,8 +1,4 @@
-{
-   "album":"AB1",
-   "id":"1twCKXs5e6j5EgHfDAzwkij3-grhIEj1n",
-   "type":"googlesharedfolder",
-   "files":[
+[
       {
          "name":"你的样子 (罗大佑).mp3",
          "id":"1Q09tuAOd6utBqLes5kJKouJdLP46P8Qu"
@@ -15,5 +11,4 @@
          "name":"感恩的心 (欧阳菲菲).mp3",
          "id":"12W3iTQa8I3p9fpOSbBIYMemdQFu3theu"
       }
-   ]
-}
+]
